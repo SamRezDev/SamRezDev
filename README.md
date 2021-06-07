@@ -1,18 +1,21 @@
 # Hi there 👋 My name is  A.Sami 
-I'm a Software Engineer working on projects and looking for opportunities ! 
+I'm a Software Engineer  looking for opportunities ! 
 
-Notable Projects :
+*Notable Projects* :
 
-##  **Shita No Saki , what anime is this?**
+*  **Shita No Saki , what anime is this?**
+
+
 A website where it can detect a show's name just by posting a screenshot from it. 
  
 Link to the app : https://whatanimeisthis.herokuapp.com/ 
+
 Source code : https://github.com/SamRezDev/ShitaNoSaki-What-anime-is-this-
 
 
-##  **Waddish ?**
+*  **Waddish ?**
   
-  I also worked on a MERN stack app aimed to suggest to you what food to eat based on your preference and what you ate the past few days.
+ A website aimed to suggest to you what food to eat based on your preference and what you ate the past few days.
 
 Link to the app :  https://waddish.herokuapp.com/
 Source code : https://github.com/SamRezDev/WaddishClient
