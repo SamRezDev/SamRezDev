@@ -1,28 +1,9 @@
 # Hi there 👋 My name is  A.Sami 
 I'm a Software Engineer  looking for opportunities ! 
+i have 2+ years of experience working as a front end dev, i'm most proficient in ReactJS, VueJS, Typescript 
 
-*Notable Projects* :
+I also do gamedev as a hobby!  using Unity / C#
 
-*  **Shita No Saki , what anime is this?**
-
-
-A website where it can detect a show's name just by posting a screenshot from it. 
- 
-Link to the app : https://whatanimeisthis.herokuapp.com/ 
-
-Source code : https://github.com/SamRezDev/ShitaNoSaki-What-anime-is-this-
-
-
-*  **Waddish ?**
-  
- A website aimed to suggest to you what food to eat based on your preference and what you ate the past few days.
-
-Link to the app :  https://waddish.herokuapp.com/
-Source code : https://github.com/SamRezDev/WaddishClient
-
-In this project, I managed to make a Full-stack app , Using MongoDB, Express, ReactJS, NodeJS, so that I can interact with a REST API ,to add, delete, update items on the database.
-I also have a Firebase authentication system integrated to it.
-In this project, I managed to interact with an external API through an interface 
 
 <!--
 **SamRezDev/SamRezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
