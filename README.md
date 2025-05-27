@@ -2,7 +2,7 @@
 I'm a Software Engineer  looking for opportunities ! 
 i have 2+ years of experience working as a front end dev, i'm most proficient in ReactJS, VueJS, Typescript 
 
-I also do gamedev! using Unity / C#
+I also do gamedev! using Unity / C# as well as Automation and AI Agents
 
 
 <!--
